@@ -1,1 +1,1 @@
-# openCV_spectrogram
+# openCV_spectrogram_display
