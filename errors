@@ -1,0 +1,6 @@
+-1
+File "./lime.py", line 281, in recognize
+    self.spectrogramm_show(net_input)       
+  File "./lime.py", line 218, in spectrogramm_show
+    cv2.imshow(win_name, image) 
+TypeError: Expected Ptr<cv::UMat> for argument 'mat'
